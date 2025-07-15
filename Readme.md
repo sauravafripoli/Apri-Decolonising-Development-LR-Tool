@@ -12,6 +12,8 @@ The **Publication Manager** is a web-based interactive tool designed to visualiz
     * **Z-Axis:** Western (negative) ↔ Global South (positive)
 * **Publication Management:**
     * **Add New Publications:** Easily input new publication details including author, short title, year, and their precise coordinates on the X, Y, and Z axes.
+    * **Edit Existing Publications:** Modify details of any stored publication.
+    * **Delete Publications:** Remove publications from the dataset.
 * **Detailed Axis Information:** Clicking on a publication's dot on any axis reveals an expandable information box below that axis, providing:
     * The relevant **citation** or excerpt from the publication that informs its placement on that axis.
     * An **interpretive positioning** explaining the reasoning behind its numerical score on the axis.
