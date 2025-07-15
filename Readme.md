@@ -2,7 +2,7 @@
 
 ## Project Description
 
-The **2D Publication Manager** is a web-based interactive tool designed to visualize and manage academic and policy literature related to the concept of "Decolonising Development." This application provides a dynamic platform for researchers, practitioners, or anyone interested in this discourse to explore and analyze publications based on their conceptual positioning along defined axes.
+The **Publication Manager** is a web-based interactive tool designed to visualize and manage academic and policy literature related to the concept of "Decolonising Development." This application provides a dynamic platform for researchers, practitioners, or anyone interested in this discourse to explore and analyze publications based on their conceptual positioning along defined axes.
 
 ### Key Features:
 
@@ -137,5 +137,3 @@ APRI Decolonizing Development LR Tool/
     * **`export function getDescriptiveTerm(value, axis)`:** Converts a numerical coordinate value on an axis into a more human-readable descriptive term (e.g., a value of 8 on the X-axis becomes "strongly transformative").
 
 ---
-
-This modular structure allows for a clear separation of concerns, making the `2D Publication Manager` easier to develop, debug, and expand in the future.
